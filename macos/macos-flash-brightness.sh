@@ -4,8 +4,8 @@
 # Completely standalone: uses Swift script compiled on the fly.
 #
 
-FLASHES=30        # number of flashes
-DELAY=0.12        # seconds between flashes
+FLASHES=50        # number of flashes
+DELAY=1        # seconds between flashes
 
 TMPFILE=$(mktemp /tmp/flashscreen.XXXX.swift)
 
