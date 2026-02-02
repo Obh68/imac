@@ -5,6 +5,10 @@ Various scripts for imac desktops
 
 folder macos -> use when running mac operating system
 
+chmod +x macos-flash-brightness.sh
+./macos-flash-brightness.sh
+
+
 
 ###
 
